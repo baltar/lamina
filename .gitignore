@@ -9,3 +9,7 @@ local-push
 autodoc
 .lein*
 target/**
+/bin
+/.classpath
+/.project
+/target
